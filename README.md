@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dashboard
 
-# Run and deploy your AI Studio app
+A React + Vite dashboard project built with Stitch、Google AI Studio.
 
-This contains everything you need to run your app locally.
+## Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/182d1f1f-2a4f-4777-b798-0fdf1a011dd3
+https://spsilu.github.io/Dashboard/
+
+## Preview
+
+### Dashboard
+
+![Dashboard Preview](./dashboard.png)
+
+### Reports
+
+![Reports Preview](./reports.png)
+
+## Features
+
+- Dashboard overview page
+- Reports page
+- Sidebar navigation
+- Responsive UI built with React and Tailwind CSS
+- Deployed with GitHub Pages
+
+## Tech Stack
+
+- React
+- Vite
+- TypeScript
+- Tailwind CSS
+- GitHub Pages
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+   ```bash
+   npm install
