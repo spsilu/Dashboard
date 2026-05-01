@@ -18,7 +18,7 @@ const PageTransition = ({ children }: { children: React.ReactNode }) => (
 
 export default function App() {
   return (
-    <Router basename="/Dashboard">
+    <Router basename="/nexus_insight">
       <div className="flex min-h-screen bg-[#f8f9ff]">
         <Sidebar />
 
