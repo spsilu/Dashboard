@@ -4,17 +4,11 @@ A React + Vite dashboard project built with Stitch、Google AI Studio.
 
 ## Live Demo
 
-https://spsilu.github.io/Dashboard/
+https://spsilu.github.io/nexus_insight/
 
 ## Preview
 
-### Dashboard
-
-![Dashboard Preview](./dashboard.png)
-
-### Reports
-
-![Reports Preview](./reports.png)
+![Reports Preview](./nexus_insight.png)
 
 ## Features
 
